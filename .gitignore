@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Virtual environments
+.venv/
+.vevn/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local data and logs
+*.log
+chroma_db/
+data/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
