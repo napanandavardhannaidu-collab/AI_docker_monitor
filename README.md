@@ -181,3 +181,17 @@ Nandu
 
 
 Developed as a hands-on project while learning AI-powered DevOps, Docker monitoring, local LLMs, and MCP.
+
+## Screenshots
+
+### Live Docker Monitoring
+
+The monitor detects container lifecycle events and displays inspection details and alert classifications.
+
+![Live Docker monitoring](screenshots/01-live-monitoring.png)
+
+### AI-Assisted Log Analysis
+
+Ollama summarizes container logs alongside verified Docker status, exit code, and runtime information.
+
+![AI-assisted log analysis](screenshots/02-ai-log-analysis.png)
