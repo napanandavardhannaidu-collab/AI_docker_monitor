@@ -177,7 +177,7 @@ The monitoring entry point is `monitor.py`. The MCP-related scripts are included
 
 ## Author
 
-Nandu
+Nanda
 
 
 Developed as a hands-on project while learning AI-powered DevOps, Docker monitoring, local LLMs, and MCP.
